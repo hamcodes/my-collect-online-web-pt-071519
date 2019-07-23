@@ -5,7 +5,7 @@ def my_collect(languages)
     collection << yield(array[i])
     i += 1
     my_collect(languages) do |lang| lang.upcase
-    my_collect
+    
   end
 end
 end
