@@ -1,3 +1,4 @@
+# this was my first try = unsuccessful!
 # def my_collect(languages)
 #   i = 0
 #   collection = []
@@ -9,6 +10,7 @@
 #     collection
 # end
 # end
+
 def my_collect(array)
   i = 0
   collection = []
